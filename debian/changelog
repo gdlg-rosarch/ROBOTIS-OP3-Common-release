@@ -1,0 +1,16 @@
+ros-kinetic-robotis-op3-common (0.1.1-0jessie) jessie; urgency=high
+
+  * changed package names and paths related for OP Series
+  * Contributors: Pyo
+
+ -- Pyo <pyo@robotis.com>  Sun, 25 Mar 2018 15:00:00 -0000
+
+ros-kinetic-robotis-op3-common (0.1.0-0jessie) jessie; urgency=high
+
+  * added metapackage
+  * refactoring to release
+  * Contributors: Pyo
+
+ -- Pyo <pyo@robotis.com>  Sun, 25 Mar 2018 15:00:00 -0000
+
+
