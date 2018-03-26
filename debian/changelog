@@ -1,0 +1,17 @@
+ros-kinetic-op3-gazebo (0.1.1-0xenial) xenial; urgency=high
+
+  * changed package names and paths related for OP Series
+  * Contributors: Pyo
+
+ -- Pyo <pyo@robotis.com>  Sun, 25 Mar 2018 15:00:00 -0000
+
+ros-kinetic-op3-gazebo (0.1.0-0xenial) xenial; urgency=high
+
+  * added camera and imu for gazebo
+  * added gazebo simulation
+  * refactoring to release
+  * Contributors: SCH, Pyo
+
+ -- Pyo <pyo@robotis.com>  Sun, 25 Mar 2018 15:00:00 -0000
+
+
